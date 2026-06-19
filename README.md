@@ -1,2 +1,3 @@
-# Diabetes-Prediction
-Diabetes Prediction System built using Machine Learning and Streamlit. This project analyzes patient health metrics such as age, BMI, blood glucose level, HbA1c level, hypertension, heart disease, and smoking history to predict the likelihood of diabetes using classification algorithms like Logistic Regression and Random Forest.
+# diabetes-prediction-system
+
+**Diabetes Prediction System** is a machine learning application that predicts the likelihood of diabetes based on a person's health details. It uses a Random Forest Classifier trained on patient data, helping users assess their diabetes risk through an interactive and user-friendly interface.
